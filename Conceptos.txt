@@ -1,0 +1,15 @@
+Github es un repositorio online gratuito que permite gestionar proyectos y controlar versiones de código.
+
+Clone: Es un comando para descargar el codigo existente en un repositorio remoto.
+
+Push: Una vez se ha confirmado un cambio el Push funciona para enviar los cambios o commits al repositorio remoto.
+
+Commit: Nos ayuda a establecer un punto de control desde el cual podremos volver a nuestro progreso anterior si cometemos un error, ademas se escribe un mensaje sobre los cambios realizados en el codigo.
+
+Pull: este comando se utiliza para recibir cambios en el repositorio remoto, es una combinacion del fetch y merge, lo que hariamos es recibir las actualizacion realizadas y aplicarlas al repositorio
+
+Revert: Para deshacer cambio con un commit de manera segura, primero se ve el historial de commits y luego se utiliza el comando "git log--oneline" se escribe el comando git revert y el codigo de comprobacion del commit que queremos deshacer
+
+Merge: Una vez se haya completado todo el proyecto y funcione todo perfectamente ya se puede fusionar la rama secundaria con la rama principal.
+
+Fetch: Se utiliza para actualizar una rama y posterior mente poder hacer un merge.
