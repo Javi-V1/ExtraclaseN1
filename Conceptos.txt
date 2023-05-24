@@ -13,3 +13,9 @@ Revert: Para deshacer cambio con un commit de manera segura, primero se ve el hi
 Merge: Una vez se haya completado todo el proyecto y funcione todo perfectamente ya se puede fusionar la rama secundaria con la rama principal.
 
 Fetch: Se utiliza para actualizar una rama y posterior mente poder hacer un merge.
+
+Add: Se utiliza para annadir los archivos en el commit.
+
+Status: Lo podemos utilizar para evaluar que archivos estan subidos al commit o no.
+
+Checkout: Para cambiar de una rama a otra y poder realizar cambios desde esa rama.
